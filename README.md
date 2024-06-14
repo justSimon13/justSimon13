@@ -15,7 +15,7 @@ I'm Simon Fischer, a software engineer from Germany. I love bringing ideas and v
 - Spring Security
 - MySQL
 
-If you'd like to view my resume, check out my website: [YourWebsiteLinkHere](InsertYourWebsiteLinkHere)
+If you'd like to view my resume, check out my website: work in progress <!--[YourWebsiteLinkHere](InsertYourWebsiteLinkHere)-->
 
 
 <!--
